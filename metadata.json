@@ -1,0 +1,6 @@
+{
+  "name": "keepcard",
+  "description": "Fast Keep-style product catalog workspace with local offline database, optional currency-free pricing, and JSON/ZIP sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
